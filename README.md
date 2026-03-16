@@ -37,7 +37,7 @@ src/
 ### 1. Prerequisites
 - Node.js 18+
 - Docker + Docker Compose
-- Google Gemini Free Tier API key → https://aistudio.google.com/app/apikey
+- Grok Free Tier API 
 
 ### 2. Install dependencies
 ```bash
